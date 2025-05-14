@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://katsukfr.github.io/BenoitMalon/sitemap.xml
